@@ -9,6 +9,9 @@ tags:
 - component
     
 
+defined_by:
+  - JSONStorage
+
 ---
 
 # Збереження даних (Data Storage)

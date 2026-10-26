@@ -9,6 +9,11 @@ tags:
 - component
     
 
+uses:
+  - DataStorage
+implements:
+  - FunctionalRequirements
+
 ---
 
 # Логіка застосунку (Shop Logic)

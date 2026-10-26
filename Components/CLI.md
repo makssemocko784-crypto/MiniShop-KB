@@ -9,6 +9,11 @@ tags:
 - component
     
 
+uses:
+  - ShopLogic
+defined_by:
+  - CLIArchitecture
+  
 ---
 
 # Консольний інтерфейс (CLI)
